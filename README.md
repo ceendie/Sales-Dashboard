@@ -1,1 +1,4 @@
 # Sales-Dashboard
+ Problem Statement for a Sales Dashboard
+
+The organization faces challenges in effectively monitoring and analyzing sales performance across various dimensions, including products, regions, and customer segments. Current reporting methods are fragmented and lack real-time insights, making it difficult for stakeholders to identify trends, pinpoint underperforming areas, and understand customer behavior. There is a pressing need for a centralized sales dashboard that consolidates key performance indicators, such as total sales, profit margins, and order fulfillment metrics, into a user-friendly interface. This dashboard should enable users to drill down into specific data points, visualize trends over time, and facilitate data-driven decision-making. Ultimately, the goal is to enhance the organization’s ability to respond quickly to market changes, optimize sales strategies, and drive overall business growth.
